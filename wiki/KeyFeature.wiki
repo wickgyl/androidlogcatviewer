@@ -5,7 +5,7 @@ This is a desktop tool for reading Android logcat format text files. General use
 
 Advanced users can use more features.
   * Support multi logcat format and DDMS save/copy log format.
-  * Add Advanced filter(show two or more TAG).
+  * Add Advanced filter(show two or more TAGs).
   * Time sync between log(main/events/radio) buffer.
 
 = Main UI Overview =
