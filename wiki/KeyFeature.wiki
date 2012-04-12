@@ -1,0 +1,30 @@
+#labels Featured
+#List of features.
+
+= Introduction =
+
+This is a Desktop tool for reading Android logcat format text files. General users can use it the same as DDMS.(DDMS is an online tool, but this is offline tool).
+
+Advanced users can use more features.
+  * Support logcat format and DDMS save/copy log format.
+  * Support add Advanced filter(show two or more TAG).
+
+= Main UI Overview =
+
+http://androidlogcatviewer.googlecode.com/svn/wiki/main.png
+
+
+= Details =
+
+File Menu:
+  * Open File --> Open a log file.
+  * Open bugreport(dumpstate) file.
+  * Open log folder --> a folder contains main/events/radio log files, tool will open it together.
+
+Main UI:
+  * Three log view, use log time stamp(04-08 13:09:20.490) to synchronize. click one, other will jump to nearest line.
+   # Toolbar(filter/save select log).
+  * Context menu(right click in log table), some of fast-filter options.
+
+Add filter:
+  * to be continue.
