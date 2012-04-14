@@ -5,7 +5,7 @@ This is a desktop tool for reading Android logcat format text files. General use
 
 Advanced users can use more features.
   * Support multi logcat format and DDMS save/copy log format.
-  * Add Advanced filter(show two or more TAGs).
+  * Add Advanced filter(show two or more Tags).
   * Time sync between log(main/events/radio) buffer.
 
 = Main UI Overview =
@@ -26,4 +26,9 @@ Main UI:
   * Context menu(right click in log table), some of fast-filter options.
 
 Add filter:
-  * to be continue.
+http://androidlogcatviewer.googlecode.com/svn/wiki/multi-tag-filter.png
+  Two types to choose one:
+  * Advanced filter
+   # Select multi Tag to show. for each filter, tool maintain a white list of Tag for each filter.
+  * Original filter
+   # The same as DDMS: show typed PID and Tag, blank means all.
