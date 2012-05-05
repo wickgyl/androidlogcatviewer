@@ -1,5 +1,5 @@
-#summary One-sentence summary of this page.
 #labels Featured,LogcatRecorder
+#Android Logcat Recorder tool feature.
 
 = Logcat Recorder tool =
 This is a lightweight Logcat recorder tool.
