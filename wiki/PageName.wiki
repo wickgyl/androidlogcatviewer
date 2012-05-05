@@ -1,0 +1,9 @@
+#summary One-sentence summary of this page.
+#labels Featured,LogcatRecorder
+
+= Logcat Recorder tool =
+This is a lightweight Logcat recorder tool.
+  * Record(main/events/radio) logs to Extenal storage(SD).
+  * Auto start after boot complete.
+  * The folder saved at SD can open by LogcatOfflineViewer tool.
+http://androidlogcatviewer.googlecode.com/svn/wiki/LogcatRecorder.png
