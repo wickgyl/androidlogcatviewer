@@ -1,6 +1,8 @@
 #labels Featured,LogcatRecorder
 #Android Logcat Recorder tool feature.
 
+[http://play.google.com/store/apps/details?id=com.m41m41.logcatrecorder download from Google Play]
+
 = Logcat Recorder tool =
 This is a lightweight Logcat recorder tool, run on android device 1.6+.
   * Record(main/events/radio) logs to Extenal storage(SD).
