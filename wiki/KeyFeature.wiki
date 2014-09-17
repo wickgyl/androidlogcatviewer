@@ -1,4 +1,9 @@
 #labels Featured
+= New Download =
+windows_x86_64 version:
+https://drive.google.com/file/d/0B0zLAKG6DFqCSG95aXNqQUZ1ODA/edit?usp=sharing
+
+
 = Introduction =
 
 This is a desktop tool for reading Android logcat format text files. General users can use it the same as DDMS.(DDMS is an online tool, but this is offline tool).
