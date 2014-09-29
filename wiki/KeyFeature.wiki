@@ -2,7 +2,7 @@
 = New Download =
 windows_x86_64 version:
 
-  * 20140925 add drag/drop support
+  * 20140929 add drag/drop support
 https://drive.google.com/file/d/0B0zLAKG6DFqCanNFZTlnWVN2WkE/edit?usp=sharing
   * 20140925, add search, previous/next hotkey. x86_64 version
 https://drive.google.com/file/d/0B0zLAKG6DFqCMC1Jb01MM08xRGc/edit?usp=sharing
